@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|c:\\users\\hp\\source\\repos\\my_personal_project\\my_personal_project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|solutionrelative:my_personal_project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|c:\\users\\hp\\source\\repos\\my_personal_project\\my_personal_project\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|solutionrelative:my_personal_project\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|c:\\users\\hp\\source\\repos\\my_personal_project\\my_personal_project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|solutionrelative:my_personal_project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|c:\\users\\hp\\source\\repos\\my_personal_project\\my_personal_project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|solutionrelative:my_personal_project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|c:\\users\\hp\\source\\repos\\my_personal_project\\my_personal_project\\views\\home\\myproject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|solutionrelative:my_personal_project\\views\\home\\myproject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|c:\\users\\hp\\source\\repos\\my_personal_project\\my_personal_project\\views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|solutionrelative:my_personal_project\\views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|c:\\users\\hp\\source\\repos\\my_personal_project\\my_personal_project\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|solutionrelative:my_personal_project\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|c:\\users\\hp\\source\\repos\\my_personal_project\\my_personal_project\\views\\login\\loginpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|solutionrelative:my_personal_project\\views\\login\\loginpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|c:\\users\\hp\\source\\repos\\my_personal_project\\my_personal_project\\views\\login\\registrationpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|solutionrelative:my_personal_project\\views\\login\\registrationpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|c:\\users\\hp\\source\\repos\\my_personal_project\\my_personal_project\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|solutionrelative:my_personal_project\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|c:\\users\\hp\\source\\repos\\my_personal_project\\my_personal_project\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|solutionrelative:my_personal_project\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|c:\\users\\hp\\source\\repos\\my_personal_project\\my_personal_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|solutionrelative:my_personal_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|c:\\users\\hp\\source\\repos\\my_personal_project\\my_personal_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|solutionrelative:my_personal_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|c:\\users\\hp\\source\\repos\\my_personal_project\\my_personal_project\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|solutionrelative:my_personal_project\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|c:\\users\\hp\\source\\repos\\my_personal_project\\my_personal_project\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F8F8AAD-EEE1-4A21-85FE-E99A1FC0069D}|My_Personal_Project\\My_Personal_Project.csproj|solutionrelative:my_personal_project\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 323,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyProject.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\Views\\Home\\MyProject.cshtml",
+              "RelativeDocumentMoniker": "My_Personal_Project\\Views\\Home\\MyProject.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\Views\\Home\\MyProject.cshtml",
+              "RelativeToolTip": "My_Personal_Project\\Views\\Home\\MyProject.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T06:29:18.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegistrationPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\Views\\Login\\RegistrationPage.cshtml",
+              "RelativeDocumentMoniker": "My_Personal_Project\\Views\\Login\\RegistrationPage.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\Views\\Login\\RegistrationPage.cshtml",
+              "RelativeToolTip": "My_Personal_Project\\Views\\Login\\RegistrationPage.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T10:29:00.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomePage.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\Views\\Home\\HomePage.cshtml",
+              "RelativeDocumentMoniker": "My_Personal_Project\\Views\\Home\\HomePage.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\Views\\Home\\HomePage.cshtml",
+              "RelativeToolTip": "My_Personal_Project\\Views\\Home\\HomePage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T10:05:54.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "My_Personal_Project\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "My_Personal_Project\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T06:42:40.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "My_Personal_Project\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "My_Personal_Project\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T10:02:39.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "My_Personal_Project\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "My_Personal_Project\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T07:45:43.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "My_Personal_Project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "My_Personal_Project\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T07:11:02.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\Views\\Login\\LoginPage.cshtml",
+              "RelativeDocumentMoniker": "My_Personal_Project\\Views\\Login\\LoginPage.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\Views\\Login\\LoginPage.cshtml",
+              "RelativeToolTip": "My_Personal_Project\\Views\\Login\\LoginPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T06:54:28.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "My_Personal_Project\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "My_Personal_Project\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T06:47:16.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "My_Personal_Project\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "My_Personal_Project\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T06:46:55.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "My_Personal_Project\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "My_Personal_Project\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T06:45:39.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "My_Personal_Project\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "My_Personal_Project\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T06:45:36.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "My_Personal_Project\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\Models\\LoginModel.cs",
+              "RelativeToolTip": "My_Personal_Project\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T06:24:19.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\Program.cs",
+              "RelativeDocumentMoniker": "My_Personal_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\Program.cs",
+              "RelativeToolTip": "My_Personal_Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T06:23:11.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\appsettings.json",
+              "RelativeDocumentMoniker": "My_Personal_Project\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\My_Personal_Project\\My_Personal_Project\\appsettings.json",
+              "RelativeToolTip": "My_Personal_Project\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-04T06:21:09.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 323,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

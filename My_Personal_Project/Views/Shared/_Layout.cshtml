@@ -1,0 +1,94 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - My_Personal_Project</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/My_Personal_Project.styles.css" asp-append-version="true" />
+</head>
+<style>
+    .custom-navbar {
+        background-color: #e6e6fa;
+        height: 70px;
+        border-radius: 0 0 15px 15px;
+        padding: 0 20px;
+    }
+
+    .navbar .nav-link {
+        color: #4b0082 !important;
+        font-weight: 500;
+        font-size: 1rem;
+        transition: color 0.3s ease, transform 0.2s ease;
+        padding: 10px 15px;
+    }
+
+        .navbar .nav-link:hover {
+            color: #6a0dad !important;
+            transform: scale(1.05);
+            text-decoration: underline;
+        }
+
+    .login-link {
+        color: #0077b6 !important;
+    }
+
+    .register-link {
+        color: #ff6f61 !important;
+    }
+
+</style>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm custom-navbar shadow-sm mb-3">
+            <div class="container-fluid">
+                @if (ViewBag.IsIndexView == null || ViewBag.IsIndexView == false)
+                {
+                    <a class="navbar-brand fw-bold text-dark" asp-area="" asp-controller="Home" asp-action="MyProject">My Project</a>
+                }
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
+                        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        @if (ViewBag.IsIndexView == null || ViewBag.IsIndexView == false)
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link" asp-controller="Home" asp-action="HomePage">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            </li>
+                        }
+                    </ul>
+                </div>
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link login-link" asp-controller="Login" asp-action="LoginPage">
+                            🔒 Login
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link register-link" asp-controller="Login" asp-action="RegistrationPage">
+                            📝 Registration
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
